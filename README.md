@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Fonseca</h1>
-<h3 align="center">Student in React Native, focus on mobile, working with IT.</h3>
+<h3 align="center">Backend NodeJS Developer, working with IT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavodesouzafonseca&label=Profile%20views&color=0e75b6&style=flat" alt="gustavodesouzafonseca" /> </p>
 
